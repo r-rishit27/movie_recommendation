@@ -1,1 +1,7 @@
-
+- Python 3.3
+- Pandas
+- Scikit-learn
+- Requests
+- Streamlit
+- pickle
+- CountVectorizer
