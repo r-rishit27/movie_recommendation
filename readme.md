@@ -2,6 +2,8 @@
 
 This project is a movie recommendation system that utilizes Natural Language Processing (NLP) techniques, specifically Bag of Words, to recommend movies based on user input. It is built using data from The Movie Database (TMDb) API, focusing on the top-rated movies of all time.
 
+![Alt text](https://github.com/r-rishit27/movie_recommendation/blob/main/Screenshot%202024-03-30%20024707.png)
+
 ## Features
 
 - **Bag of Words Technique:** The system employs the Bag of Words NLP technique to analyze the textual content of movie descriptions and synopses.
